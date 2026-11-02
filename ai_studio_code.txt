@@ -1,0 +1,7 @@
+dist/
+├── _redirects               # قاعدة توجيه Cloudflare Pages (/* /index.html 200) لمنع أخطاء 404 عند تحديث الصفحة
+├── 404.html                 # نسخة احتياطية للتوجيه التلقائي
+├── index.html               # الملف الرئيسي للواجهة
+└── assets/
+    ├── index-Clb6Bosx.css   # ملف التنسيقات الكامل والمضغوط (Tailwind CSS)
+    └── index-D-GmzfzG.js    # كود React الكامل والمضغوط والمجمّع

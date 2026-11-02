@@ -1,0 +1,6 @@
+{
+  "name": "كينغ فود - KING FOOD",
+  "description": "الموقع الرسمي لمطعم كينغ فود (King Food) لطلب أشهى المأكولات السريعة عبر الواتساب مع التوصيل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
